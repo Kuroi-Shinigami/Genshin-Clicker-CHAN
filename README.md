@@ -1,1 +1,1 @@
-#  Anime Clicker Genshin Chan Unity2D
+#  Genshin-Clicker-CHAN
